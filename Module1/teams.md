@@ -1,30 +1,34 @@
 # Module 1
 
-Team Backdoor:
+Team Back:
 
-* Kyla
-* Caroline
-* Austin
+* Patrick
+* Ethan
+* Caleb
 
 Team Lectern:
 
-* Madi
-* Jacy
-* Arvind
-  
+* Akarsh
+* Gautham
+* Chelsea
+* Kate
+
 Team Window:
 
-* Dylan
-* Ren
-* Qingyuan
+* Melika
+* Ashish
+* Ana
 
-Team LCD:
-
-* Luis
-* Luke
 
 Team Chair Stack:
 
-* Abbey
-* Zhishun
-* Rany
+* Sinai
+* Shing
+* Yun
+
+
+
+
+
+
+
