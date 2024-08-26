@@ -1,6 +1,6 @@
 # Module 1
 
-Team Back:
+Team Cabinet:
 
 * Patrick
 * Ethan
@@ -13,14 +13,13 @@ Team Lectern:
 * Chelsea
 * Kate
 
-Team Window:
+Team Fire Alarm:
 
 * Melika
 * Ashish
 * Ana
 
-
-Team Chair Stack:
+Team Clock:
 
 * Sinai
 * Shing
